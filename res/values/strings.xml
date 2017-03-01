@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MidtermTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Good Luck</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_return">ReturnActivity</string>
+    <string name="title_activity_get_result">GetResultActivity</string>
+    <string name="title_activity_state_saver">StateSaverActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_grid">GridActivity</string>
+
+</resources>
